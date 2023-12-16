@@ -1,0 +1,13 @@
+/* 상위 랭킹을 수평으로 나열하는 컨테이너의 스타일 */
+.top-ranking-container {
+  display: flex;
+  justify-content: space-between; /* 요소들 사이의 간격을 최대화하여 수평 정렬 */
+}
+
+/* 각 프로필 박스의 스타일 */
+.profile-box {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 5px;
+  width: 30%; /* 각 박스의 너비를 조절 */
+}

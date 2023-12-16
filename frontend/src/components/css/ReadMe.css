@@ -1,0 +1,59 @@
+.question-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Adjust the margin-top as needed */
+}
+
+.readme-container {
+  margin:10px;
+  margin-left:15px;
+}
+
+.readme-octobox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px; /* Adjust the margin-top as needed */
+}
+
+/* Add this style to center the image within the container */
+.readme-octobox img {
+  width: 100%; /* Ensure the image takes the full width of its container */
+  height: auto; /* Maintain the aspect ratio of the image */
+}
+
+.readme-text-box {
+  background-color: #FFE6C7; /* Set your desired background color */
+  padding: 20px; /* Adjust the padding as needed */
+  border-radius: 10px; /* Add border radius for rounded corners */
+  font-size: 16px;
+}
+
+.big-text {
+  font-size: 100px; /* Set your desired font size */
+  font-weight: bold; /* Optionally set the font weight */
+  padding: 60px;
+  /* Add any other styling properties you need */
+}
+
+.readme-info{
+  background-color: #FFE6C7; /* Set your desired background color */
+  padding: 20px; /* Adjust the padding as needed */
+  border-radius: 10px; /* Add border radius for rounded corners */
+  font-size: 16px;
+}
+
+.readme-three-box {
+  display: flex;
+  margin:10px;
+  justify-content: space-between; /* Adjust as needed, e.g., space-around or space-evenly */
+}
+
+.box {
+  flex: 1; /* Distribute available space equally among boxes */
+  background-color: #FFE6C7;
+  padding: 20px;
+  border-radius: 10px;
+  text-decoration-color: #454545;
+  margin-right: 10px; /* Adjust as needed to add space between boxes */
+}
