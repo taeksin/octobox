@@ -1,6 +1,10 @@
 # 웹 프레임워크1  3조  문어의 꿈
 
-김택신/ 1971194, 박소은/2191189, 전소진/2191193, 창윤빈/1971214 
+## 팀 멤버
+- 김택신 (학번: 1971194)
+- 박소은 (학번: 2191189)
+- 전소진 (학번: 2191193)
+- 창윤빈 (학번: 1971214)
 
 ## Available Scripts
 
@@ -40,6 +44,18 @@ In the project directory, you can run:
 
 ### `npm start`
 3. 리액트 앱을 실행시키고 브라우저에서 http://localhost:3000으로 접속합니다.
+
+### 실행결과
+<img src="https://github.com/taeksin/octobox/assets/90402009/8e12b933-0587-42f0-ab4a-d8f7facd2501" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/a7231297-de5d-466b-96fe-85431103f93b" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/74bf3483-35fe-433e-9e3c-b6d7892f3609" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/c113f75a-79e4-4df7-8ad5-4fe67e1ac75d" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/9ce9ce91-baf6-41b6-81d2-4b24b5c062f4" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/714b776c-31e5-4bfb-ae86-5cc2de3a3967" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/c9025370-32ff-4db7-97eb-d2dcd8e4636e" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/083ed083-cf60-4613-849e-1a08d10b068d" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/519c6dac-99de-4000-a62d-fb6701ff4552" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/d87a357d-1831-4edb-ada9-7808b7c1f1e4" width="400" height="250" style="margin: 10px;" >
 
 
 ## File Structure Chart
