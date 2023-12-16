@@ -57,7 +57,9 @@ In the project directory, you can run:
 <img src="https://github.com/taeksin/octobox/assets/90402009/3d67a0c4-478b-4a12-9905-b3720b602557" width="400" height="250" style="margin: 10px;" >
 
 ## File Structure Chart
-
+<div class="details-btn" onclick="toggleDetails()">📦OCTOBOX</div>
+<div class="octobox-details">
+  <pre>
 ```
 📦OCTOBOX
  ┣ 📂backend
@@ -181,3 +183,30 @@ In the project directory, you can run:
  ┃ ┗ 📜tailwind.config.js
  ┣ 📜.gitignore
 ```
+  </pre>
+</div>
+
+
+/* 기존 CSS에 아래 내용을 추가 */
+.details-btn {
+  cursor: pointer;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.octobox-details {
+  display: none;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* 버튼을 눌렀을 때 열리도록 하는 스타일 */
+.details-btn.active + .octobox-details {
+  display: block;
+}
+
+// 기존의 JavaScript에 아래 내용을 추가
+function toggleDetails() {
+  const detailsBtn = document.querySelector('.details-btn');
+  detailsBtn.classList.toggle('active');
+}
