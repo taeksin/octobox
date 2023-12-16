@@ -45,17 +45,16 @@ In the project directory, you can run:
 3. 리액트 앱을 실행시키고 브라우저에서 http://localhost:3000으로 접속합니다.
 
 ### 실행결과
-<img src="https://github.com/taeksin/octobox/assets/90402009/8e12b933-0587-42f0-ab4a-d8f7facd2501" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/a7231297-de5d-466b-96fe-85431103f93b" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/74bf3483-35fe-433e-9e3c-b6d7892f3609" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/c113f75a-79e4-4df7-8ad5-4fe67e1ac75d" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/9ce9ce91-baf6-41b6-81d2-4b24b5c062f4" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/714b776c-31e5-4bfb-ae86-5cc2de3a3967" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/c9025370-32ff-4db7-97eb-d2dcd8e4636e" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/083ed083-cf60-4613-849e-1a08d10b068d" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/519c6dac-99de-4000-a62d-fb6701ff4552" width="400" height="250" style="margin: 10px;" >
-<img src="https://github.com/taeksin/octobox/assets/90402009/d87a357d-1831-4edb-ada9-7808b7c1f1e4" width="400" height="250" style="margin: 10px;" >
-
+<img src="https://github.com/taeksin/octobox/assets/90402009/3e45cc38-c654-4710-be2c-808a5a8a28a2" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/a666a1e2-1000-41a6-9c94-6bf47b2d0dfd" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/11a0255c-060c-4e21-bb02-08ba080b15ab" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/493af5d8-bc04-4be1-89cf-0dd756cc7039" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/6b0016c8-cd7f-46e3-9540-6670297ac899" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/34001b16-c74b-48a4-956f-2a271f6d2fef" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/4b7d9107-9022-4b79-9357-10299ea30618" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/88992427-8711-4022-b3b5-ffef3c698076" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/d42a93e5-7bd7-4f45-90f0-b0c042403d0a" width="400" height="250" style="margin: 10px;" >
+<img src="https://github.com/taeksin/octobox/assets/90402009/3d67a0c4-478b-4a12-9905-b3720b602557" width="400" height="250" style="margin: 10px;" >
 
 ## File Structure Chart
 
